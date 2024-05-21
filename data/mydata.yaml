@@ -1,0 +1,9 @@
+train : D:/bisheProject/yolov5/VOCData/dataSet_path/train.txt
+val : D:/bisheProject/yolov5/VOCData/dataSet_path/val.txt
+test : D:/bisheProject/yolov5/VOCData/dataSet_path/test.txt
+
+names:
+  0: face
+  1: smoke
+  2: phone
+  3: drink
